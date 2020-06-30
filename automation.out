@@ -1,0 +1,19 @@
+2020-06-30 20:06:659 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2020-06-30 20:06:751 INFO  WaitHelper:23 - element is visible..
+2020-06-30 20:06:95 INFO  HomePage:73 - Selected: Mitsubishi
+2020-06-30 20:06:215 INFO  HomePage:67 - Selected: Outlander
+2020-06-30 20:06:362 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2020-06-30 20:06:602 INFO  WaitHelper:23 - element is visible..
+2020-06-30 20:06:630 INFO  HomePage:90 - 7kw full price Matched
+2020-06-30 20:06:658 INFO  HomePage:96 - 7kw Oleg Grant price Matched
+2020-06-30 20:06:746 INFO  WaitHelper:20 - waiting for element visibilityOf..
+2020-06-30 20:06:823 INFO  WaitHelper:23 - element is visible..
+2020-06-30 20:06:839 INFO  HomePage:106 - 6 Compatible extras are displayed
+2020-06-30 20:06:886 INFO  HomePage:108 - compatibleExtras: Key lock
+2020-06-30 20:06:933 INFO  HomePage:108 - compatibleExtras: 5m Portable cable
+2020-06-30 20:06:980 INFO  HomePage:108 - compatibleExtras: Extended warranty
+2020-06-30 20:06:27 INFO  HomePage:108 - compatibleExtras: Cable Bag
+2020-06-30 20:06:73 INFO  HomePage:108 - compatibleExtras: 10m Portable cable
+2020-06-30 20:06:120 INFO  HomePage:108 - compatibleExtras: Holster
+2020-06-30 20:06:262 INFO  HomePage:114 - Selected 5m Portable cable
+2020-06-30 20:06:262 INFO  ServiceHooks:42 - Select Cars is pass
